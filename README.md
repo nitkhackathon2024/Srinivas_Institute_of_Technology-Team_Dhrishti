@@ -1,6 +1,7 @@
-## College Name - Team Name
-Provide details of team members 
-
+## Srinivas Institute of Technology - Team Dhrishti
+Khyathi
+Ghansyam A
+Sangeerth S
 ## Problem Statement
 Provide description of which Theme and Problem statement you are attempting
 
