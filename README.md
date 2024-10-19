@@ -15,7 +15,7 @@ Step 6 : Click Submit<br>
 Step 7 : Quantum machine learning model will identify if it's a fraud or not<br>
 <br><br>
 NOTE:<br>
-Model trained using Kaggle dataset : Credit Card Fraud Detection
+Model trained using Kaggle dataset : Credit Card Fraud Detection<br>
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 <br>
 ## References
