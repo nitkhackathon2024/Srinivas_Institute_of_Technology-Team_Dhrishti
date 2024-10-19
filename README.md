@@ -6,6 +6,8 @@ Khyathi <br>
 Quantum Detective: Cracking Financial Anomalies
 
 ## Instructions on running your project
-Provide detailed steps to get your project up and running, including any dependencies
-
+Step 1 : Install Python 3.11
+Step 2 : ## pip install requirements.txt
+Step 3 : run app.py
+Step 4 : 
 ## References
