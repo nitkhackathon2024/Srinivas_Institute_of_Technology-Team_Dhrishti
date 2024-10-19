@@ -1,6 +1,6 @@
 ## Srinivas Institute of Technology - Team Dhrishti
 Khyathi <br>
- Ghansyam A |
+ Ghansyam A <br>
  Sangeerth S
 ## Problem Statement
 Quantum Detective: Cracking Financial Anomalies
